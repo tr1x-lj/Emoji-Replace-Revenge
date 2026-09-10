@@ -115,7 +115,7 @@ export default {
         }
 
         // Uncomment once to find the real URL_FN_NAME, then remove.
-        // debugListEmojiUtilsKeys();
+        debugListEmojiUtilsKeys();
 
         unpatch = patchEmojiURL();
     },
