@@ -1,0 +1,9 @@
+{
+    "$meta": {
+        "name": "Derty's Plugins",
+        "description": "Personal plugin repository"
+    },
+    "emojireplace": {
+        "version": "1.0.0"
+    }
+}
